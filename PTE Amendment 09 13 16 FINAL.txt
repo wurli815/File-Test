@@ -1,11 +1,11 @@
 PARALLEL TEST ENVIRONMENT AMENDMENT
 TO GENESYS MASTER SUBSCRIPTION AGREEMENT
 Cloud Services
-***VERY CONFIDENTIAL***
+***CONFIDENTIAL***
 
 This parallel test environment amendment (ÒPTE AmendmentÓ) is entered into by the Genesys signatories set forth below in the signature block (ÒGenesysÓ) and _______ (ÒCustomerÓ) and amends the Master Subscription Agreement for Cloud Services (ÒMSAÓ) entered into by the parties on [insert date].  This PTE Amendment shall be effective as of the date both parties have executed it (the ÒAmendment Effective DateÓ).  Capitalized terms not defined in this PTE Amendment shall have the meaning set forth in the MSA.  In the event of a conflict between the MSA and this PTE Amendment, the terms of this PTE Amendment shall control with respect to the subject matter of this amendment.
 
-1.  SCOPE.  This PTE Amendment sets forth the terms which Genesys will implement a test and development environment (ÒParallel Test EnvironmentÓ or ÒPTEÓ) in which Customer may perform certain testing and development activities related to the Genesys Cloud Services, as further described in the Genesys ÒBusiness Edition Cloud and Enterprise Edition Cloud Parallel Test Environment (PTE) Description, Policy and Best PracticesÓ guide (the ÒPTE GuideÓ).  In the event of a conflict between, the terms of this PTE Amendment shall control. Genesys reserves the right to update the PTE Guide from time to time.
+1.  NEW SCOPE.  This PTE Amendment sets forth the terms which Genesys will implement a test and development environment (ÒParallel Test EnvironmentÓ or ÒPTEÓ) in which Customer may perform certain testing and development activities related to the Genesys Cloud Services, as further described in the Genesys ÒBusiness Edition Cloud and Enterprise Edition Cloud Parallel Test Environment (PTE) Description, Policy and Best PracticesÓ guide (the ÒPTE GuideÓ).  In the event of a conflict between, the terms of this PTE Amendment shall control. Genesys reserves the right to update the PTE Guide from time to time.
 
 2.  TERM AND TERMINATION.  This PTE Amendment shall be effective as of the Amendment Effective Date and shall remain in effect during the Term of the MSA, unless one party provides the other with thirty (30) daysÕ written notice of its intent to terminate this PTE Amendment.  In the event this PTE Amendment is terminated, Customer shall pay all Fees associated with use of the PTE through such termination date.
 
